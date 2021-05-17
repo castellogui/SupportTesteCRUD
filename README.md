@@ -15,7 +15,7 @@ Desde já agradeço,
 
 Guilherme Castello.
 
-## Funcionamento
+## 💻 Funcionamento
 Os passos e imagens abaixo descrevem cada ação do projeto.
 #### 1. Pesquisa Geral
 <img src="https://www.imagemhost.com.br/images/2021/05/17/1.-pesquisa-geral.jpg" alt="1.-pesquisa-geral.jpg" border="0" />

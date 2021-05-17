@@ -32,7 +32,7 @@ Na imagem acima, é possível identificar o novo item cadastrado e também é in
 
 #### 4. Editar Pessoa
 <img src="https://www.imagemhost.com.br/images/2021/05/17/4.-editar.jpg" alt="4.-editar.jpg" border="0"></a>
-Neste campo, o usuário pode realizar a edição das informações da pessoa selecionada, com excessão do campo código. Este campo não deve ser alterado para que não haja nenhum conflito com o banco de dados, já que esta coluna está definida como auto_increment. A não edição deste campo também possibilita visualizar a ordem em que as pessoas foram adicionadas ou removidas.
+Neste campo, o usuário pode realizar a edição das informações da pessoa selecionada, com excessão do campo código. Este campo não deve ser alterado para que não haja nenhum conflito com o banco de dados, já que esta coluna está definida como auto_increment. O campo estar definido como apenas leitura também possibilita visualizar a ordem em que as pessoas foram adicionadas ou removidas com mais fidelidade.
 
 #### 5. Visualizar Edição e Campo 
 <img src="https://www.imagemhost.com.br/images/2021/05/17/5.-clicar-excluir.jpg" alt="5.-clicar-excluir.jpg" border="0"></a>
